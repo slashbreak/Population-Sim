@@ -1,0 +1,5 @@
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\TestProject1\bin\Release\TestProject1.dll
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\TestProject1\bin\Release\TestProject1.pdb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\TestProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\TestProject1\obj\Release\TestProject1.dll
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\TestProject1\obj\Release\TestProject1.pdb

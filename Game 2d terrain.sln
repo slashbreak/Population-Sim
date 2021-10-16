@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game 2d terrain", "Game 2d terrain\Game 2d terrain\Game 2d terrain.csproj", "{AF842498-C7E8-4BC2-98E6-169971A908C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game 2d terrainContent", "Game 2d terrain\Game 2d terrainContent\Game 2d terrainContent.contentproj", "{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B632495D-A245-4497-AC1C-4638C808D675}"
+	ProjectSection(SolutionItems) = preProject
+		Game 2d terrain.vsmdi = Game 2d terrain.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Game 2d terrain.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|x64.ActiveCfg = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|x64.Build.0 = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|x86.ActiveCfg = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Debug|x86.Build.0 = Debug|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|Any CPU.ActiveCfg = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|x64.ActiveCfg = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|x64.Build.0 = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|x86.ActiveCfg = Release|x86
+		{AF842498-C7E8-4BC2-98E6-169971A908C1}.Release|x86.Build.0 = Release|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Debug|x64.ActiveCfg = Debug|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Debug|x86.ActiveCfg = Debug|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Release|Any CPU.ActiveCfg = Release|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Release|x64.ActiveCfg = Release|x86
+		{1EBD9ECC-0FCF-4ABD-8026-A7923DF72026}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

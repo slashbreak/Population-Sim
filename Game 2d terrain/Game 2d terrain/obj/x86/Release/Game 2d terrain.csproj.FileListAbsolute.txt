@@ -1,0 +1,15 @@
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\blue.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\green.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\black.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\tiles.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\Bitmap1.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\SpriteFont1.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\Effect1.xnb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Game 2d terrain.exe
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Game 2d terrain.pdb
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Release\Game 2d terrain.exe
+c:\users\luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Release\Game 2d terrain.pdb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\food.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Release\Content\mapcolor.xnb

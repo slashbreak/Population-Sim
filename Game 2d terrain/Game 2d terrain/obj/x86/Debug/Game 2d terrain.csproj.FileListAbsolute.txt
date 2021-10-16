@@ -1,0 +1,29 @@
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\boy.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\food.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\girl.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\tiles.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\mapcolor.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\Effect1.xnb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Game 2d terrain.exe
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Game 2d terrain.pdb
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Game 2d terrain.exe
+C:\Users\Luke\documents\visual studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Game 2d terrain.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\player.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\boy.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\food.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\girl.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\player.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\Bitmap1.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\tiles.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\mapcolor.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Content\Effect1.xnb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Game 2d terrain.exe
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\bin\x86\Debug\Game 2d terrain.pdb
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Game 2d terrain.exe
+D:\Users\Luke\Documents\Visual Studio 2010\Projects\Game 2d terrain\Game 2d terrain\Game 2d terrain\obj\x86\Debug\Game 2d terrain.pdb
